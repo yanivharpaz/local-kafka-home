@@ -1,0 +1,30 @@
+[
+  {
+    "item_id": "77775",
+    "category_id": "99313",
+    "name": "Item J",
+    "product_type": "widget",
+    "dept": "Appliances"
+  },
+  {
+    "item_id": "12081",
+    "category_id": "93522",
+    "name": "Item J",
+    "product_type": "widget",
+    "dept": "Electronics"
+  },
+  {
+    "item_id": "60983",
+    "category_id": "34484",
+    "name": "Item G",
+    "product_type": "widget",
+    "dept": "Hardware"
+  },
+  {
+    "item_id": "76370",
+    "category_id": "20548",
+    "name": "Item Q",
+    "product_type": "widget",
+    "dept": "Appliances"
+  }
+]

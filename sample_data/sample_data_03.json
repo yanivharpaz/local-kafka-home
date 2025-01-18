@@ -1,0 +1,44 @@
+[
+  {
+    "item_id": "25873",
+    "category_id": "49701",
+    "name": "Item E",
+    "product_type": "widget",
+    "dept": "Electronics"
+  },
+  {
+    "item_id": "44732",
+    "category_id": "23586",
+    "name": "Item J",
+    "product_type": "widget",
+    "dept": "Electronics"
+  },
+  {
+    "item_id": "42260",
+    "category_id": "62688",
+    "name": "Item T",
+    "product_type": "widget",
+    "dept": "Electronics"
+  },
+  {
+    "item_id": "10923",
+    "category_id": "38129",
+    "name": "Item P",
+    "product_type": "widget",
+    "dept": "Electronics"
+  },
+  {
+    "item_id": "71487",
+    "category_id": "79665",
+    "name": "Item O",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  },
+  {
+    "item_id": "13762",
+    "category_id": "66920",
+    "name": "Item S",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  }
+]

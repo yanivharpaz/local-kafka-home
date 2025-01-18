@@ -1,0 +1,30 @@
+[
+  {
+    "item_id": "11362",
+    "category_id": "10971",
+    "name": "Item G",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  },
+  {
+    "item_id": "23813",
+    "category_id": "62245",
+    "name": "Item K",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  },
+  {
+    "item_id": "96897",
+    "category_id": "12281",
+    "name": "Item W",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  },
+  {
+    "item_id": "41501",
+    "category_id": "64332",
+    "name": "Item I",
+    "product_type": "widget",
+    "dept": "Home & Kitchen"
+  }
+]
